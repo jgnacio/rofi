@@ -1,0 +1,8 @@
+* {
+  al:      #000000EE;
+  bg:      #00000000;
+  ac:      #FF0000;
+  fg:      #FFFFFF;
+  bgfocus: #111111;
+  myred:   #FF0000;
+}
